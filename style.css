@@ -1,0 +1,15 @@
+h1{
+  text-align: center;
+  padding: 20px;
+  font-size: 45px;
+}
+figure{
+  text-align: center;
+}
+#grid{
+display: grid;
+grid-template-columns: 0 445px;
+margin-left: 700px;
+}
+#grid #article{
+}
